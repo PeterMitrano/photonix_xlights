@@ -29,11 +29,6 @@
     <ColorPalette>C_BUTTON_Palette1=#FFFFFF,C_BUTTON_Palette2=#FF8000,C_BUTTON_Palette3=#00FF00,C_BUTTON_Palette4=#0000FF,C_BUTTON_Palette5=#FFFF00,C_BUTTON_Palette6=#000000,C_BUTTON_Palette7=#00FFFF,C_BUTTON_Palette8=#FF00FF,C_CHECKBOX_Palette1=1</ColorPalette>
     <ColorPalette>C_BUTTON_Palette1=#FFFFFF,C_BUTTON_Palette2=#FF0000,C_BUTTON_Palette3=#FF8040,C_BUTTON_Palette4=#0000FF,C_BUTTON_Palette5=#FFFF00,C_BUTTON_Palette6=#000000,C_BUTTON_Palette7=#00FFFF,C_BUTTON_Palette8=#FF00FF,C_CHECKBOX_Palette1=1</ColorPalette>
     <ColorPalette>C_BUTTON_Palette1=#FFFFFF,C_BUTTON_Palette2=#FF8000,C_BUTTON_Palette3=#00FF00,C_BUTTON_Palette4=#0000FF,C_BUTTON_Palette5=#FFFF00,C_BUTTON_Palette6=#000000,C_BUTTON_Palette7=#00FFFF,C_BUTTON_Palette8=#FF00FF,C_CHECKBOX_Palette2=1,C_SLIDER_Brightness=70</ColorPalette>
-    <ColorPalette>C_BUTTON_Palette1=#FFFFFF,C_BUTTON_Palette2=#FF0000,C_BUTTON_Palette3=#00FF00,C_BUTTON_Palette4=#0000FF,C_BUTTON_Palette5=#FFFF00,C_BUTTON_Palette6=#000000,C_BUTTON_Palette7=#00FFFF,C_BUTTON_Palette8=#8000FF,C_CHECKBOX_Palette3=1,C_VALUECURVE_Brightness=Active=TRUE|Id=ID_VALUECURVE_Brightness|Type=Ramp Up/Down|Min=0.00|Max=400.00|P1=10.00|P2=100.00|P3=17.00|RV=TRUE|</ColorPalette>
-    <ColorPalette>C_BUTTON_Palette1=#FFFFFF,C_BUTTON_Palette2=#FF0000,C_BUTTON_Palette3=#00FF00,C_BUTTON_Palette4=#0000FF,C_BUTTON_Palette5=#FFFF00,C_BUTTON_Palette6=#000000,C_BUTTON_Palette7=#00FFFF,C_BUTTON_Palette8=#8000FF,C_CHECKBOX_Palette3=1,C_SLIDER_Brightness=10</ColorPalette>
-    <ColorPalette>C_BUTTON_Palette1=#FFFFFF,C_BUTTON_Palette2=#FF0000,C_BUTTON_Palette3=#00FF00,C_BUTTON_Palette4=#0000FF,C_BUTTON_Palette5=#FFFF00,C_BUTTON_Palette6=#000000,C_BUTTON_Palette7=#00FFFF,C_BUTTON_Palette8=#8000FF,C_CHECKBOX_Palette5=1</ColorPalette>
-    <ColorPalette>C_BUTTON_Palette1=#FFFFFF,C_BUTTON_Palette2=#FF0000,C_BUTTON_Palette3=#00FF00,C_BUTTON_Palette4=#0000FF,C_BUTTON_Palette5=#FFFF00,C_BUTTON_Palette6=#FF00FF,C_BUTTON_Palette7=#00FFFF,C_BUTTON_Palette8=#FF8000,C_CHECKBOX_Palette5=1,C_CHECKBOX_Palette6=1,C_CHECKBOX_Palette7=1,C_CHECKBOX_Palette8=1</ColorPalette>
-    <ColorPalette>C_BUTTON_Palette1=#FFFFFF,C_BUTTON_Palette2=#FF0000,C_BUTTON_Palette3=#00FF00,C_BUTTON_Palette4=#0000FF,C_BUTTON_Palette5=#FFFF00,C_BUTTON_Palette6=#000000,C_BUTTON_Palette7=#00FFFF,C_BUTTON_Palette8=#8000FF,C_CHECKBOX_Palette3=1,C_CHECKBOX_Palette5=1,C_CHECKBOX_Palette7=1</ColorPalette>
     <ColorPalette>C_BUTTON_Palette1=#FFFFFF,C_BUTTON_Palette2=#0080FF,C_BUTTON_Palette3=#008000,C_BUTTON_Palette4=#FFFF00,C_BUTTON_Palette5=#FFFFFF,C_BUTTON_Palette6=#80FFFF,C_BUTTON_Palette7=#800000,C_BUTTON_Palette8=#FF0000,C_CHECKBOX_Palette1=1,C_SLIDER_Brightness=80</ColorPalette>
     <ColorPalette>C_BUTTON_Palette1=#FFFFFF,C_BUTTON_Palette2=#FF0000,C_BUTTON_Palette3=#00FF00,C_BUTTON_Palette4=#0000FF,C_BUTTON_Palette5=#FFFF00,C_BUTTON_Palette6=#000000,C_BUTTON_Palette7=#00FFFF,C_BUTTON_Palette8=#FF00FF,C_CHECKBOX_Palette8=1</ColorPalette>
     <ColorPalette>C_BUTTON_Palette1=#FFFFFF,C_BUTTON_Palette2=#FF0000,C_BUTTON_Palette3=#FFA500,C_BUTTON_Palette4=#FFFF00,C_BUTTON_Palette5=#49FF00,C_BUTTON_Palette6=#00FFAD,C_BUTTON_Palette7=#0059FF,C_BUTTON_Palette8=#FF00FF,C_CHECKBOX_Palette2=1,C_CHECKBOX_Palette3=1,C_CHECKBOX_Palette4=1,C_CHECKBOX_Palette5=1,C_CHECKBOX_Palette6=1,C_CHECKBOX_Palette7=1,C_CHECKBOX_Palette8=1</ColorPalette>
@@ -65,11 +60,6 @@
     <Effect>E_TEXTCTRL_Eff_On_End=27,E_TEXTCTRL_Eff_On_Start=76</Effect>
     <Effect>E_TEXTCTRL_Eff_On_End=0</Effect>
     <Effect>E_CHOICE_VUMeter_TimingTrack=custom,E_CHOICE_VUMeter_Type=Timing Event Alternate Timed Sweep,E_SLIDER_VUMeter_Bars=25</Effect>
-    <Effect>E_CHOICE_Butterfly_Colors=Rainbow,E_CHOICE_Butterfly_Direction=Normal,E_SLIDER_Butterfly_Chunks=1,E_SLIDER_Butterfly_Skip=2,E_SLIDER_Butterfly_Speed=7,E_SLIDER_Butterfly_Style=1</Effect>
-    <Effect>E_CHOICE_Butterfly_Colors=Rainbow,E_CHOICE_Butterfly_Direction=Normal,E_SLIDER_Butterfly_Chunks=1,E_SLIDER_Butterfly_Skip=2,E_SLIDER_Butterfly_Speed=10,E_SLIDER_Butterfly_Style=1</Effect>
-    <Effect>E_TEXTCTRL_Eff_On_End=0,E_TEXTCTRL_Eff_On_Start=38</Effect>
-    <Effect>E_CHOICE_VUMeter_TimingTrack=hold_on_to_you_beats,E_CHOICE_VUMeter_Type=Timing Event Pulse Color,E_SLIDER_VUMeter_Bars=16</Effect>
-    <Effect>E_CHECKBOX_Chase_3dFade1=0,E_CHECKBOX_Chase_Group_All=0,E_CHOICE_Chase_Type1=Left-Right,E_CHOICE_SingleStrand_Colors=Palette,E_CHOICE_Skips_Direction=To Middle,E_NOTEBOOK_SSEFFECT_TYPE=Skips,E_SLIDER_Color_Mix1=10,E_SLIDER_Number_Chases=1,E_SLIDER_Skips_Advance=64,E_SLIDER_Skips_BandSize=6,E_SLIDER_Skips_SkipSize=2,E_SLIDER_Skips_StartPos=1,E_TEXTCTRL_Chase_Rotations=1.0</Effect>
     <Effect>E_CHOICE_VUMeter_TimingTrack=Beats,E_CHOICE_VUMeter_Type=Timing Event Pulse,E_SLIDER_VUMeter_Bars=7</Effect>
     <Effect>E_CHECKBOX_Shockwave_Blend_Edges=1,E_NOTEBOOK_Shockwave=Position,E_SLIDER_Shockwave_Accel=0,E_SLIDER_Shockwave_CenterX=70,E_SLIDER_Shockwave_CenterY=46,E_SLIDER_Shockwave_End_Radius=40,E_SLIDER_Shockwave_End_Width=6,E_SLIDER_Shockwave_Start_Radius=0,E_SLIDER_Shockwave_Start_Width=14</Effect>
     <Effect>E_CHOICE_VUMeter_TimingTrack=custom,E_CHOICE_VUMeter_Type=Timing Event Color</Effect>
@@ -79,6 +69,7 @@
     <Effect>E_CHECKBOX_Bars_3D=0,E_CHECKBOX_Bars_Gradient=0,E_CHECKBOX_Bars_Highlight=0,E_CHOICE_Bars_Direction=down,E_SLIDER_Bars_BarCount=1,E_TEXTCTRL_Bars_Cycles=3</Effect>
     <Effect></Effect>
     <Effect>E_CHECKBOX_Shockwave_Blend_Edges=1,E_NOTEBOOK_Shockwave=Position,E_SLIDER_Shockwave_Accel=0,E_SLIDER_Shockwave_CenterX=60,E_SLIDER_Shockwave_CenterY=31,E_SLIDER_Shockwave_End_Radius=91,E_SLIDER_Shockwave_End_Width=35,E_SLIDER_Shockwave_Start_Radius=0,E_SLIDER_Shockwave_Start_Width=19</Effect>
+    <Effect>E_CHOICE_Butterfly_Colors=Rainbow,E_CHOICE_Butterfly_Direction=Normal,E_SLIDER_Butterfly_Chunks=1,E_SLIDER_Butterfly_Skip=2,E_SLIDER_Butterfly_Speed=10,E_SLIDER_Butterfly_Style=1</Effect>
     <Effect>E_TEXTCTRL_Eff_On_End=30</Effect>
     <Effect>E_CHECKBOX_Pinwheel_Rotation=1,E_CHOICE_Pinwheel_3D=None,E_CHOICE_Pinwheel_Style=New Render Method,E_SLIDER_PinwheelXC=22,E_SLIDER_PinwheelYC=-28,E_SLIDER_Pinwheel_ArmSize=200,E_SLIDER_Pinwheel_Arms=2,E_SLIDER_Pinwheel_Offset=90,E_SLIDER_Pinwheel_Speed=10,E_SLIDER_Pinwheel_Thickness=100,E_SLIDER_Pinwheel_Twist=0</Effect>
     <Effect>E_CHECKBOX_Pinwheel_Rotation=0,E_CHOICE_Pinwheel_3D=None,E_CHOICE_Pinwheel_Style=New Render Method,E_SLIDER_PinwheelXC=22,E_SLIDER_PinwheelYC=-28,E_SLIDER_Pinwheel_ArmSize=200,E_SLIDER_Pinwheel_Arms=2,E_SLIDER_Pinwheel_Offset=90,E_SLIDER_Pinwheel_Speed=10,E_SLIDER_Pinwheel_Thickness=100,E_SLIDER_Pinwheel_Twist=0</Effect>
@@ -1215,7 +1206,7 @@
         <Effect label="" startTime="407250" endTime="420875"></Effect>
         <Effect label="" startTime="420875" endTime="434450"></Effect>
         <Effect label="" startTime="434450" endTime="441350"></Effect>
-        <Effect label="" selected="1" startTime="441350" endTime="448125"></Effect>
+        <Effect label="" startTime="441350" endTime="448125"></Effect>
       </EffectLayer>
     </Element>
     <Element type="timing" name="hold_on_to_you_beats">
@@ -1309,58 +1300,51 @@
         <Effect ref="8" name="On" id="17" startTime="181200" endTime="181500" palette="7"/>
         <Effect ref="8" name="On" id="18" startTime="181500" endTime="182150" palette="7"/>
         <Effect ref="9" name="VU Meter" id="19" startTime="182150" endTime="190700" palette="9"/>
-        <Effect ref="10" name="Butterfly" id="20" startTime="222900" endTime="236075" palette="10"/>
-        <Effect ref="11" name="Butterfly" id="21" startTime="239250" endTime="242375" palette="11"/>
-        <Effect ref="11" name="Butterfly" id="22" startTime="245550" endTime="248725" palette="11"/>
-        <Effect ref="12" name="On" id="23" startTime="248725" endTime="251950" palette="12"/>
-        <Effect ref="0" name="On" id="24" startTime="251950" endTime="258200" palette="12"/>
-        <Effect ref="13" name="VU Meter" id="25" startTime="261350" endTime="274025" palette="13"/>
-        <Effect ref="14" name="SingleStrand" id="26" startTime="274025" endTime="286600" palette="14"/>
-        <Effect ref="15" name="VU Meter" id="27" startTime="329050" endTime="331925" palette="15"/>
-        <Effect ref="16" name="Shockwave" id="28" startTime="331925" endTime="334325" palette="16"/>
-        <Effect ref="15" name="VU Meter" id="29" startTime="334325" endTime="352700" palette="15"/>
-        <Effect ref="17" name="VU Meter" id="30" startTime="352700" endTime="407250" palette="17"/>
-        <Effect ref="18" name="SingleStrand" id="31" startTime="407250" endTime="441350" palette="18"/>
-        <Effect ref="8" name="On" id="32" startTime="441350" endTime="448125" palette="19"/>
+        <Effect ref="10" name="VU Meter" id="27" startTime="329050" endTime="331925" palette="10"/>
+        <Effect ref="11" name="Shockwave" id="28" startTime="331925" endTime="334325" palette="11"/>
+        <Effect ref="10" name="VU Meter" id="29" startTime="334325" endTime="352700" palette="10"/>
+        <Effect ref="12" name="VU Meter" id="30" startTime="352700" endTime="407250" palette="12"/>
+        <Effect ref="13" name="SingleStrand" id="31" startTime="407250" endTime="441350" palette="13"/>
+        <Effect ref="8" name="On" id="32" startTime="441350" endTime="448125" palette="14"/>
       </EffectLayer>
       <SubModelEffectLayer name="top_half">
-        <Effect ref="19" name="On" startTime="197150" endTime="199275" palette="20"/>
-        <Effect ref="20" name="On" id="1" startTime="199275" endTime="207900" palette="20"/>
+        <Effect ref="14" name="On" startTime="197150" endTime="199275" palette="15"/>
+        <Effect ref="15" name="On" id="1" startTime="199275" endTime="207900" palette="15"/>
       </SubModelEffectLayer>
       <SubModelEffectLayer name="bottom_half">
-        <Effect ref="19" name="On" startTime="195000" endTime="199275" palette="7"/>
-        <Effect ref="20" name="On" id="1" startTime="199275" endTime="207900" palette="7"/>
+        <Effect ref="14" name="On" startTime="195000" endTime="199275" palette="7"/>
+        <Effect ref="15" name="On" id="1" startTime="199275" endTime="207900" palette="7"/>
       </SubModelEffectLayer>
     </Element>
     <Element type="model" name="guitar">
       <EffectLayer>
-        <Effect ref="21" name="Bars" startTime="329050" endTime="331325" palette="21"/>
-        <Effect ref="22" name="On" id="1" startTime="331325" endTime="331500" palette="22"/>
-        <Effect ref="22" name="On" id="2" startTime="331500" endTime="331675" palette="23"/>
-        <Effect ref="22" name="On" id="3" startTime="331675" endTime="331925" palette="16"/>
-        <Effect ref="23" name="Shockwave" id="4" startTime="331925" endTime="334300" palette="16"/>
-        <Effect ref="22" name="On" id="5" startTime="334300" endTime="334525" palette="16"/>
-        <Effect ref="22" name="On" id="6" startTime="334525" endTime="334675" palette="22"/>
-        <Effect ref="22" name="On" id="7" startTime="334675" endTime="334850" palette="23"/>
-        <Effect ref="22" name="On" id="8" startTime="334850" endTime="335000" palette="24"/>
-        <Effect ref="11" name="Butterfly" id="9" startTime="335000" endTime="336475" palette="16"/>
-        <Effect ref="24" name="On" id="10" startTime="336475" endTime="337325" palette="25"/>
-        <Effect ref="22" name="On" id="11" startTime="337325" endTime="337525" palette="16"/>
-        <Effect ref="22" name="On" id="12" startTime="337525" endTime="337725" palette="22"/>
-        <Effect ref="22" name="On" id="13" startTime="337725" endTime="337900" palette="23"/>
-        <Effect ref="22" name="On" id="14" startTime="337900" endTime="338100" palette="24"/>
-        <Effect ref="25" name="Pinwheel" id="15" startTime="338100" endTime="338875" palette="26"/>
-        <Effect ref="26" name="Pinwheel" id="16" startTime="338875" endTime="339625" palette="26"/>
-        <Effect ref="25" name="Pinwheel" id="17" startTime="339625" endTime="340000" palette="26"/>
-        <Effect ref="26" name="Pinwheel" id="18" startTime="340000" endTime="340375" palette="26"/>
-        <Effect ref="25" name="Pinwheel" id="19" startTime="340375" endTime="340550" palette="26"/>
-        <Effect ref="26" name="Pinwheel" id="20" startTime="340550" endTime="341200" palette="26"/>
-        <Effect ref="27" name="VU Meter" id="21" startTime="341200" endTime="343375" palette="17"/>
-        <Effect ref="24" name="On" id="22" startTime="343375" endTime="345725" palette="25"/>
-        <Effect ref="28" name="VU Meter" id="23" startTime="345725" endTime="347600" palette="27"/>
-        <Effect ref="24" name="On" id="24" startTime="347600" endTime="350425" palette="28"/>
-        <Effect ref="29" name="VU Meter" id="25" startTime="350425" endTime="352700" palette="29"/>
-        <Effect ref="8" name="On" id="26" startTime="352700" endTime="357225" palette="30"/>
+        <Effect ref="16" name="Bars" startTime="329050" endTime="331325" palette="16"/>
+        <Effect ref="17" name="On" id="1" startTime="331325" endTime="331500" palette="17"/>
+        <Effect ref="17" name="On" id="2" startTime="331500" endTime="331675" palette="18"/>
+        <Effect ref="17" name="On" id="3" startTime="331675" endTime="331925" palette="11"/>
+        <Effect ref="18" name="Shockwave" id="4" startTime="331925" endTime="334300" palette="11"/>
+        <Effect ref="17" name="On" id="5" startTime="334300" endTime="334525" palette="11"/>
+        <Effect ref="17" name="On" id="6" startTime="334525" endTime="334675" palette="17"/>
+        <Effect ref="17" name="On" id="7" startTime="334675" endTime="334850" palette="18"/>
+        <Effect ref="17" name="On" id="8" startTime="334850" endTime="335000" palette="19"/>
+        <Effect ref="19" name="Butterfly" id="9" startTime="335000" endTime="336475" palette="11"/>
+        <Effect ref="20" name="On" id="10" startTime="336475" endTime="337325" palette="20"/>
+        <Effect ref="17" name="On" id="11" startTime="337325" endTime="337525" palette="11"/>
+        <Effect ref="17" name="On" id="12" startTime="337525" endTime="337725" palette="17"/>
+        <Effect ref="17" name="On" id="13" startTime="337725" endTime="337900" palette="18"/>
+        <Effect ref="17" name="On" id="14" startTime="337900" endTime="338100" palette="19"/>
+        <Effect ref="21" name="Pinwheel" id="15" startTime="338100" endTime="338875" palette="21"/>
+        <Effect ref="22" name="Pinwheel" id="16" startTime="338875" endTime="339625" palette="21"/>
+        <Effect ref="21" name="Pinwheel" id="17" startTime="339625" endTime="340000" palette="21"/>
+        <Effect ref="22" name="Pinwheel" id="18" startTime="340000" endTime="340375" palette="21"/>
+        <Effect ref="21" name="Pinwheel" id="19" startTime="340375" endTime="340550" palette="21"/>
+        <Effect ref="22" name="Pinwheel" id="20" startTime="340550" endTime="341200" palette="21"/>
+        <Effect ref="23" name="VU Meter" id="21" startTime="341200" endTime="343375" palette="12"/>
+        <Effect ref="20" name="On" id="22" startTime="343375" endTime="345725" palette="20"/>
+        <Effect ref="24" name="VU Meter" id="23" startTime="345725" endTime="347600" palette="22"/>
+        <Effect ref="20" name="On" id="24" startTime="347600" endTime="350425" palette="23"/>
+        <Effect ref="25" name="VU Meter" id="25" startTime="350425" endTime="352700" palette="24"/>
+        <Effect ref="8" name="On" id="26" startTime="352700" endTime="357225" palette="25"/>
       </EffectLayer>
     </Element>
     <Element type="model" name="bar1">
@@ -1385,36 +1369,29 @@
         <Effect ref="8" name="On" id="17" startTime="181200" endTime="181500" palette="7"/>
         <Effect ref="8" name="On" id="18" startTime="181500" endTime="182150" palette="7"/>
         <Effect ref="9" name="VU Meter" id="19" startTime="182150" endTime="190700" palette="9"/>
-        <Effect ref="10" name="Butterfly" id="20" startTime="222900" endTime="236075" palette="10"/>
-        <Effect ref="11" name="Butterfly" id="21" startTime="239250" endTime="242375" palette="11"/>
-        <Effect ref="11" name="Butterfly" id="22" startTime="245550" endTime="248725" palette="11"/>
-        <Effect ref="12" name="On" id="23" startTime="248725" endTime="251950" palette="12"/>
-        <Effect ref="0" name="On" id="24" startTime="251950" endTime="258200" palette="12"/>
-        <Effect ref="13" name="VU Meter" id="25" startTime="261350" endTime="274025" palette="13"/>
-        <Effect ref="14" name="SingleStrand" id="26" startTime="274025" endTime="286600" palette="14"/>
-        <Effect ref="15" name="VU Meter" id="27" startTime="329050" endTime="331925" palette="15"/>
-        <Effect ref="16" name="Shockwave" id="28" startTime="331925" endTime="334325" palette="16"/>
-        <Effect ref="15" name="VU Meter" id="29" startTime="334325" endTime="352700" palette="15"/>
-        <Effect ref="17" name="VU Meter" id="30" startTime="352700" endTime="407250" palette="17"/>
-        <Effect ref="18" name="SingleStrand" id="31" startTime="407250" endTime="441350" palette="18"/>
-        <Effect ref="8" name="On" id="32" startTime="441350" endTime="448125" palette="19"/>
+        <Effect ref="10" name="VU Meter" id="27" startTime="329050" endTime="331925" palette="10"/>
+        <Effect ref="11" name="Shockwave" id="28" startTime="331925" endTime="334325" palette="11"/>
+        <Effect ref="10" name="VU Meter" id="29" startTime="334325" endTime="352700" palette="10"/>
+        <Effect ref="12" name="VU Meter" id="30" startTime="352700" endTime="407250" palette="12"/>
+        <Effect ref="13" name="SingleStrand" id="31" startTime="407250" endTime="441350" palette="13"/>
+        <Effect ref="8" name="On" id="32" startTime="441350" endTime="448125" palette="14"/>
       </EffectLayer>
       <SubModelEffectLayer name="bottom_half">
-        <Effect ref="19" name="On" startTime="192875" endTime="199275" palette="7"/>
-        <Effect ref="20" name="On" id="1" startTime="199275" endTime="207900" palette="7"/>
+        <Effect ref="14" name="On" startTime="192875" endTime="199275" palette="7"/>
+        <Effect ref="15" name="On" id="1" startTime="199275" endTime="207900" palette="7"/>
       </SubModelEffectLayer>
       <SubModelEffectLayer name="top_half">
-        <Effect ref="19" name="On" startTime="190700" endTime="199275" palette="20"/>
-        <Effect ref="20" name="On" id="1" startTime="199275" endTime="207900" palette="20"/>
+        <Effect ref="14" name="On" startTime="190700" endTime="199275" palette="15"/>
+        <Effect ref="15" name="On" id="1" startTime="199275" endTime="207900" palette="15"/>
       </SubModelEffectLayer>
     </Element>
     <Element type="model" name="bars">
       <EffectLayer>
-        <Effect ref="17" name="VU Meter" startTime="292900" endTime="295700" palette="31"/>
-        <Effect ref="22" name="On" id="1" startTime="295700" endTime="301900" palette="32"/>
-        <Effect ref="17" name="VU Meter" id="2" startTime="301900" endTime="303500" palette="33"/>
-        <Effect ref="22" name="On" id="3" startTime="304900" endTime="323100" palette="15"/>
-        <Effect ref="8" name="On" id="4" startTime="323100" endTime="329050" palette="15"/>
+        <Effect ref="12" name="VU Meter" startTime="292900" endTime="295700" palette="26"/>
+        <Effect ref="17" name="On" id="1" startTime="295700" endTime="301900" palette="27"/>
+        <Effect ref="12" name="VU Meter" id="2" startTime="301900" endTime="303500" palette="28"/>
+        <Effect ref="17" name="On" id="3" startTime="304900" endTime="323100" palette="10"/>
+        <Effect ref="8" name="On" id="4" startTime="323100" endTime="329050" palette="10"/>
       </EffectLayer>
     </Element>
   </ElementEffects>
