@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<timing name="solo" SourceVersion="2021.33">
+   <EffectLayer>
+      <Effect label="1" starttime="42775" endtime="43125" />
+      <Effect label="2" starttime="43125" endtime="43500" />
+      <Effect label="3" starttime="43500" endtime="43850" />
+      <Effect label="4" starttime="43850" endtime="44225" />
+      <Effect label="1" starttime="44225" endtime="44575" />
+      <Effect label="2" starttime="44575" endtime="44950" />
+      <Effect label="3" starttime="44950" endtime="45150" />
+      <Effect label="" starttime="45150" endtime="45325" />
+      <Effect label="1" starttime="45325" endtime="46025" />
+      <Effect label="4" starttime="46025" endtime="47850" />
+      <Effect label="3" starttime="47850" endtime="48050" />
+      <Effect label="" starttime="48050" endtime="48225" />
+      <Effect label="4" starttime="48225" endtime="48425" />
+      <Effect label="" starttime="48425" endtime="48600" />
+      <Effect label="1" starttime="48600" endtime="48950" />
+      <Effect label="2" starttime="48950" endtime="49325" />
+      <Effect label="3" starttime="49325" endtime="49675" />
+      <Effect label="4" starttime="49675" endtime="49900" />
+      <Effect label="" starttime="49900" endtime="50775" />
+      <Effect label="3" starttime="50775" endtime="50975" />
+      <Effect label="" starttime="50975" endtime="51150" />
+      <Effect label="4" starttime="51150" endtime="51350" />
+      <Effect label="" starttime="51350" endtime="51500" />
+      <Effect label="1" starttime="51500" endtime="52225" />
+      <Effect label="" starttime="52225" endtime="52950" />
+      <Effect label="1" starttime="52950" endtime="53325" />
+      <Effect label="" starttime="53325" endtime="53675" />
+      <Effect label="3" starttime="53675" endtime="53850" />
+      <Effect label="" starttime="53850" endtime="54400" />
+      <Effect label="1" starttime="54400" endtime="54775" />
+      <Effect label="2" starttime="54775" endtime="55125" />
+      <Effect label="3" starttime="55125" endtime="55475" />
+      <Effect label="4" starttime="55475" endtime="55850" />
+      <Effect label="1" starttime="55850" endtime="56225" />
+      <Effect label="2" starttime="56225" endtime="56600" />
+      <Effect label="3" starttime="56600" endtime="56775" />
+      <Effect label="" starttime="56775" endtime="56950" />
+      <Effect label="4" starttime="56950" endtime="57150" />
+      <Effect label="1" starttime="57150" endtime="59500" />
+      <Effect label="3" starttime="59500" endtime="59700" />
+      <Effect label="" starttime="59700" endtime="59850" />
+      <Effect label="4" starttime="59850" endtime="60025" />
+      <Effect label="" starttime="60025" endtime="60225" />
+      <Effect label="1" starttime="60225" endtime="60575" />
+      <Effect label="2" starttime="60575" endtime="60775" />
+      <Effect label="" starttime="60775" endtime="60950" />
+      <Effect label="3" starttime="60950" endtime="61125" />
+      <Effect label="" starttime="61125" endtime="61325" />
+      <Effect label="4" starttime="61325" endtime="63125" />
+      <Effect label="1" starttime="63125" endtime="63325" />
+      <Effect label="" starttime="63325" endtime="63500" />
+      <Effect label="2" starttime="63500" endtime="63675" />
+      <Effect label="" starttime="63675" endtime="63850" />
+      <Effect label="3" starttime="63850" endtime="64025" />
+      <Effect label="" starttime="64025" endtime="64225" />
+      <Effect label="4" starttime="64225" endtime="64425" />
+      <Effect label="" starttime="64425" endtime="64600" />
+      <Effect label="1" starttime="64600" endtime="66050" />
+   </EffectLayer>
+</timing>
