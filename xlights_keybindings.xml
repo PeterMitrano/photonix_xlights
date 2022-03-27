@@ -109,4 +109,10 @@
   <keybinding keycode="F" alt="FALSE" control="FALSE" shift="TRUE" type="EFFECT" effect="Fan" xLightsVersion="2021.33"></keybinding>
   <keybinding keycode="U" alt="FALSE" control="FALSE" shift="TRUE" type="APPLYSETTING" xLightsVersion="2021.33">T_TEXTCTRL_Fadein=1.00</keybinding>
   <keybinding keycode="D" alt="FALSE" control="FALSE" shift="TRUE" type="APPLYSETTING" xLightsVersion="2021.33">T_TEXTCTRL_Fadeout=1.00</keybinding>
+  <keybinding keycode="" alt="FALSE" control="FALSE" shift="FALSE" type="MODEL_FLIP_HORIZ"/>
+  <keybinding keycode="" alt="FALSE" control="FALSE" shift="FALSE" type="MODEL_FLIP_VERT"/>
+  <keybinding keycode="" alt="FALSE" control="FALSE" shift="FALSE" type="MODEL_SUBMODELS"/>
+  <keybinding keycode="" alt="FALSE" control="FALSE" shift="FALSE" type="MODEL_FACES"/>
+  <keybinding keycode="" alt="FALSE" control="FALSE" shift="FALSE" type="MODEL_STATES"/>
+  <keybinding keycode="" alt="FALSE" control="FALSE" shift="FALSE" type="MODEL_MODELDATA"/>
 </keybindings>
