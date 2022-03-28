@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xrgb>
   <models>
-    <model DisplayAs="Custom" StartSide="B" Dir="L" Antialias="1" Transparency="0" parm3="1" LayoutGroup="Default" PixelSize="10" CustomBkgLightness="0" CustomBkgImage="" CustomStrings="8" CustomColor="#001aff" StringType="Superstring" SuperStringColour0="#ff0000" SuperStringColour1="#00ff00" SuperStringColour2="#0000ff" SuperStringColour3="#ffffff" SuperStringColour4="#ffff00" SuperStringColour5="#ffa500" parm1="10" parm2="8" Depth="1" CustomModel=",,,,,,,,,;1,1,1,,,,,2,2,2;1,1,1,,,,,2,2,2;,,,,,,,,,;,,,,,,,,,;,,,3,3,4,4,,,;,,,3,3,4,4,,,;,,,3,3,4,4,,," Controller="No Controller" name="suit5" WorldPosX="2098.7444" WorldPosY="442.0908" WorldPosZ="0.0000" ScaleX="81.9556" ScaleY="118.9714" ScaleZ="81.9556" RotateX="0.00000000" RotateY="0.00000000" RotateZ="0.00000000" versionNumber="5" StartChannel="2627">
+    <model DisplayAs="Channel Block" StartSide="B" Dir="L" Antialias="1" Transparency="0" parm2="50" parm3="1" StringType="Single Color White" PixelSize="12" LayoutGroup="Default" ChannelProperties.ChannelColor13="white" ChannelProperties.ChannelColor16="white" ChannelProperties.ChannelColor9="#0000ff" ChannelProperties.ChannelColor10="#008000" ChannelProperties.ChannelColor11="#ffa500" ChannelProperties.ChannelColor12="#ffff00" ChannelProperties.ChannelColor14="#ff0000" ChannelProperties.ChannelColor15="#ffff00" ShadowModelFor="suit5" parm1="8" ChannelProperties.ChannelColor1="#ffffff" ChannelProperties.ChannelColor3="#ffffff" ChannelProperties.ChannelColor2="#ffffff" ChannelProperties.ChannelColor4="#ffffff" ChannelProperties.ChannelColor5="#ffffff" ChannelProperties.ChannelColor6="#ffffff" ChannelProperties.ChannelColor7="#ffffff" ChannelProperties.ChannelColor8="#ffffff" name="Suit 2 Channel Block" WorldPosX="-2338.7375" WorldPosY="1647.3859" WorldPosZ="0.0000" X2="934.650635" Y2="7.724487" Z2="0.000000" versionNumber="5" StartChannel="!suit2:1">
+      <ControllerConnection/>
+    </model>
+    <model DisplayAs="Custom" StartSide="B" Dir="L" Antialias="1" Transparency="0" parm3="1" LayoutGroup="Default" PixelSize="10" CustomStrings="8" name="center_chest_green" parm2="11" parm1="10" Depth="1" CustomModel=",,,,,,,,,;,,,,,,,,,;,,,,,,,,,;1,1,1,,,,,1,1,1;,,,,,,,,,;,,,,,,,,,;,,,,,,,,,;,,,,,,,,,;,,,,,,,,,;,,,,,,,,,;,,,,,,,,," CustomBkgLightness="0" CustomBkgImage="" SuperStringColour0="#008000" CustomColor="#008000" StringType="Single Color Intensity" WorldPosX="-1342.9800" WorldPosY="-107.9800" WorldPosZ="0.0000" ScaleX="81.9556" ScaleY="83.2800" ScaleZ="81.9556" RotateX="0.00000000" RotateY="0.00000000" RotateZ="0.00000000" versionNumber="5" StartChannel="!suit1:1">
       <subModel name="left_arm" layout="horizontal" type="ranges" bufferstyle="Default" line0="2">
         <ControllerConnection/>
       </subModel>
@@ -16,7 +19,7 @@
       </subModel>
       <ControllerConnection/>
     </model>
-    <model DisplayAs="Custom" StartSide="B" Dir="L" Antialias="1" Transparency="0" parm3="1" LayoutGroup="Default" PixelSize="10" CustomBkgLightness="0" CustomBkgImage="" CustomStrings="8" CustomColor="#001aff" StringType="Superstring" SuperStringColour0="#ff0000" SuperStringColour1="#00ff00" SuperStringColour2="#0000ff" SuperStringColour3="#ffffff" SuperStringColour4="#ffff00" SuperStringColour5="#ffa500" parm1="10" parm2="8" Depth="1" CustomModel=",,,,,,,,,;1,1,1,,,,,2,2,2;1,1,1,,,,,2,2,2;,,,,,,,,,;,,,,,,,,,;,,,3,3,4,4,,,;,,,3,3,4,4,,,;,,,3,3,4,4,,," Controller="No Controller" name="suit4" WorldPosX="1070.8469" WorldPosY="418.6420" WorldPosZ="0.0000" ScaleX="81.9556" ScaleY="118.9714" ScaleZ="81.9556" RotateX="0.00000000" RotateY="0.00000000" RotateZ="0.00000000" versionNumber="5" StartChannel="2603">
+    <model DisplayAs="Custom" StartSide="B" Dir="L" Antialias="1" Transparency="0" parm3="1" LayoutGroup="Default" PixelSize="10" CustomStrings="8" CustomColor="#001aff" StringType="Superstring" parm2="11" parm1="10" Depth="1" CustomModel=",,,,,,1,1,1,1;,,,,1,1,,,,;,,,1,,,,,,;,,1,,,,,,1,1;,1,,,,,1,1,,;1,,,,1,1,,,,;1,,,1,,,,,,;1,,,1,,,,,,;1,,1,,,,,,,;1,,1,,,,,,,;1,1,1,,,,,,," CustomBkgLightness="0" CustomBkgImage="" SuperStringColour0="#0000ff" name="right_arm-2" WorldPosX="767.0200" WorldPosY="-107.9800" WorldPosZ="0.0000" ScaleX="81.9556" ScaleY="83.2800" ScaleZ="81.9556" RotateX="0.00000000" RotateY="0.00000000" RotateZ="0.00000000" versionNumber="5" StartChannel="!suit2:3">
       <subModel name="left_arm" layout="horizontal" type="ranges" bufferstyle="Default" line0="2">
         <ControllerConnection/>
       </subModel>
@@ -31,7 +34,7 @@
       </subModel>
       <ControllerConnection/>
     </model>
-    <model DisplayAs="Custom" StartSide="B" Dir="L" Antialias="1" Transparency="0" parm3="1" LayoutGroup="Default" PixelSize="10" CustomBkgLightness="0" CustomBkgImage="" CustomStrings="8" CustomColor="#001aff" StringType="Superstring" SuperStringColour0="#ff0000" SuperStringColour1="#00ff00" SuperStringColour2="#0000ff" SuperStringColour3="#ffffff" SuperStringColour4="#ffff00" SuperStringColour5="#ffa500" parm1="10" parm2="8" Depth="1" CustomModel=",,,,,,,,,;1,1,1,,,,,2,2,2;1,1,1,,,,,2,2,2;,,,,,,,,,;,,,,,,,,,;,,,3,3,4,4,,,;,,,3,3,4,4,,,;,,,3,3,4,4,,," Controller="No Controller" name="suit3" WorldPosX="3070.7356" WorldPosY="459.2640" WorldPosZ="0.0000" ScaleX="81.9556" ScaleY="118.9714" ScaleZ="81.9556" RotateX="0.00000000" RotateY="0.00000000" RotateZ="0.00000000" versionNumber="5" StartChannel="2579">
+    <model DisplayAs="Custom" StartSide="B" Dir="L" Antialias="1" Transparency="0" parm3="1" LayoutGroup="Default" PixelSize="10" name="center_chest" SuperStringColour0="#ffa500" SuperStringColour1="#00ff00" CustomStrings="1" CustomColor="#ffa500" StringType="Single Color Intensity" parm2="8" parm1="10" Depth="1" CustomModel=",,,,,,,,,;,,,,,,,,,;1,1,1,,,,,1,1,1;,,,,,,,,,;1,1,1,,,,,1,1,1;,,,,,,,,,;,,,,,,,,,;,,,,,,,,," CustomBkgLightness="0" CustomBkgImage="" WorldPosX="-1344.9841" WorldPosY="22.2954" WorldPosZ="0.0000" ScaleX="81.9556" ScaleY="118.9714" ScaleZ="81.9556" RotateX="0.00000000" RotateY="0.00000000" RotateZ="0.00000000" versionNumber="5" StartChannel="!suit1:1">
       <subModel name="left_arm" layout="horizontal" type="ranges" bufferstyle="Default" line0="2">
         <ControllerConnection/>
       </subModel>
@@ -46,7 +49,10 @@
       </subModel>
       <ControllerConnection/>
     </model>
-    <model DisplayAs="Custom" StartSide="B" Dir="L" Antialias="1" Transparency="0" parm3="1" LayoutGroup="Default" name="suit1" PixelSize="10" Controller="suit1" CustomBkgLightness="0" CustomBkgImage="" CustomStrings="8" CustomColor="#001aff" StringType="Superstring" SuperStringColour0="#ff0000" SuperStringColour1="#00ff00" SuperStringColour2="#0000ff" SuperStringColour3="#ffffff" SuperStringColour4="#ffff00" SuperStringColour5="#ffa500" parm1="10" parm2="8" Depth="1" CustomModel=",,,,,,,,,;1,1,1,,,,,2,2,2;1,1,1,,,,,2,2,2;,,,,,,,,,;,,,,,,,,,;,,,3,3,4,4,,,;,,,3,3,4,4,,,;,,,3,3,4,4,,," WorldPosX="80.8233" WorldPosY="422.3197" WorldPosZ="0.0000" ScaleX="81.9556" ScaleY="118.9714" ScaleZ="81.9556" RotateX="0.00000000" RotateY="0.00000000" RotateZ="0.00000000" versionNumber="5" StartChannel="!suit1:1">
+    <model DisplayAs="Channel Block" StartSide="B" Dir="L" Antialias="1" Transparency="0" parm2="50" parm3="1" StringType="Single Color White" PixelSize="12" LayoutGroup="Default" ChannelProperties.ChannelColor13="white" ChannelProperties.ChannelColor16="white" name="Suit 1 Channel Block" ChannelProperties.ChannelColor9="#0000ff" ChannelProperties.ChannelColor10="#008000" ChannelProperties.ChannelColor11="#ffa500" ChannelProperties.ChannelColor12="#ffff00" ChannelProperties.ChannelColor14="#ff0000" ChannelProperties.ChannelColor15="#ffff00" ShadowModelFor="suit5" parm1="8" ChannelProperties.ChannelColor1="#ffffff" ChannelProperties.ChannelColor3="#ffffff" ChannelProperties.ChannelColor2="#ffffff" ChannelProperties.ChannelColor4="#ffffff" ChannelProperties.ChannelColor5="#ffffff" ChannelProperties.ChannelColor6="#ffffff" ChannelProperties.ChannelColor7="#ffffff" ChannelProperties.ChannelColor8="#ffffff" NodeNames="" StrandNames="center_chest,torso_outline,left_arm,right_arm,back,glasses,left_leg,right_leg" WorldPosX="-2340.8877" WorldPosY="1730.3507" WorldPosZ="0.0000" X2="934.650635" Y2="7.724487" Z2="0.000000" versionNumber="5" StartChannel="!suit1:1">
+      <ControllerConnection/>
+    </model>
+    <model DisplayAs="Custom" StartSide="B" Dir="L" Antialias="1" Transparency="0" parm3="1" LayoutGroup="Default" PixelSize="10" CustomStrings="8" CustomColor="#001aff" StringType="Superstring" parm2="11" parm1="10" Depth="1" CustomModel=",,,,,,1,1,1,1;,,,,1,1,,,,;,,,1,,,,,,;,,1,,,,,,1,1;,1,,,,,1,1,,;1,,,,1,1,,,,;1,,,1,,,,,,;1,,,1,,,,,,;1,,1,,,,,,,;1,,1,,,,,,,;1,1,1,,,,,,," CustomBkgLightness="0" CustomBkgImage="" name="right_arm" SuperStringColour0="#0000ff" WorldPosX="-2220.7654" WorldPosY="-68.3331" WorldPosZ="0.0000" ScaleX="81.9556" ScaleY="83.2800" ScaleZ="81.9556" RotateX="0.00000000" RotateY="0.00000000" RotateZ="0.00000000" versionNumber="5" StartChannel="!suit1:3">
       <ControllerConnection Protocol="ws2811"/>
       <subModel name="left_arm" layout="horizontal" type="ranges" bufferstyle="Default" line0="2">
         <ControllerConnection/>
@@ -97,24 +103,6 @@
         <ControllerConnection/>
       </subModel>
     </model>
-    <model DisplayAs="Custom" StartSide="B" Dir="L" Antialias="1" Transparency="0" parm3="1" LayoutGroup="Default" PixelSize="10" CustomBkgLightness="0" CustomBkgImage="" CustomStrings="8" CustomColor="#001aff" StringType="Superstring" SuperStringColour0="#ff0000" SuperStringColour1="#00ff00" SuperStringColour2="#0000ff" SuperStringColour3="#ffffff" SuperStringColour4="#ffff00" SuperStringColour5="#ffa500" parm1="10" parm2="8" Depth="1" CustomModel=",,,,,,,,,;1,1,1,,,,,2,2,2;1,1,1,,,,,2,2,2;,,,,,,,,,;,,,,,,,,,;,,,3,3,4,4,,,;,,,3,3,4,4,,,;,,,3,3,4,4,,," Controller="No Controller" name="suit2" WorldPosX="-882.9800" WorldPosY="397.0200" WorldPosZ="0.0000" ScaleX="81.9556" ScaleY="118.9714" ScaleZ="81.9556" RotateX="0.00000000" RotateY="0.00000000" RotateZ="0.00000000" versionNumber="5" StartChannel="2555">
-      <subModel name="left_arm" layout="horizontal" type="ranges" bufferstyle="Default" line0="2">
-        <ControllerConnection/>
-      </subModel>
-      <subModel name="right_arm" layout="horizontal" type="ranges" bufferstyle="Default" line0="1">
-        <ControllerConnection/>
-      </subModel>
-      <subModel name="left_leg" layout="horizontal" type="ranges" bufferstyle="Default" line0="4">
-        <ControllerConnection/>
-      </subModel>
-      <subModel name="right_leg" layout="horizontal" type="ranges" bufferstyle="Default" line0="3">
-        <ControllerConnection/>
-      </subModel>
-      <ControllerConnection/>
-    </model>
-    <model DisplayAs="Channel Block" StartSide="B" Dir="L" Antialias="1" Transparency="0" parm2="50" parm3="1" StringType="Single Color White" PixelSize="12" LayoutGroup="Default" ChannelProperties.ChannelColor13="white" ChannelProperties.ChannelColor16="white" name="Suit 1 Channel Block" parm1="16" ChannelProperties.ChannelColor1="#ff0000" ChannelProperties.ChannelColor2="#ffff00" ChannelProperties.ChannelColor3="#ffa500" ChannelProperties.ChannelColor4="#ff0000" ChannelProperties.ChannelColor5="#0000ff" ChannelProperties.ChannelColor6="#ffa500" ChannelProperties.ChannelColor7="#008000" ChannelProperties.ChannelColor8="#0000ff" ChannelProperties.ChannelColor9="#0000ff" ChannelProperties.ChannelColor10="#008000" ChannelProperties.ChannelColor11="#ffa500" ChannelProperties.ChannelColor12="#ffff00" ChannelProperties.ChannelColor14="#ff0000" ChannelProperties.ChannelColor15="#ffff00" ShadowModelFor="suit5" Advanced="1" String1="1" String4="1" String2="1" String3="1" String5="2" String6="2" String7="3" String8="3" String9="4" String10="4" String11="4" String12="5" String13="6" String14="7" String15="8" String16="8" WorldPosX="-1385.8878" WorldPosY="-351.6493" WorldPosZ="0.0000" X2="934.650635" Y2="7.724487" Z2="0.000000" versionNumber="5" StartChannel="1">
-      <ControllerConnection/>
-    </model>
   </models>
   <view_objects>
     <view_object DisplayAs="Gridlines" LayoutGroup="Default" name="Gridlines" GridLineSpacing="50" GridWidth="2000.0" GridHeight="1000.0" Active="1" WorldPosX="0.0000" WorldPosY="0.0000" WorldPosZ="0.0000" ScaleX="1.0000" ScaleY="1.0000" ScaleZ="1.0000" RotateX="-90.00000000" RotateY="-0.00000000" RotateZ="0.00000000" versionNumber="5"/>
@@ -131,9 +119,9 @@
   </perspectives>
   <settings>
     <defaultSeqView value=""/>
+    <scaleImage value="0"/>
     <previewWidth value="1280"/>
     <previewHeight value="720"/>
-    <scaleImage value="0"/>
   </settings>
   <colors>
     <DisabledEffect Red="200" Green="200" Blue="0"/>

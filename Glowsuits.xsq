@@ -19,7 +19,7 @@
   <nextid>1</nextid>
   <Jukebox/>
   <ColorPalettes>
-    <ColorPalette>C_BUTTON_Palette1=#FFFFFF,C_BUTTON_Palette2=#FF0000,C_BUTTON_Palette3=#00FF00,C_BUTTON_Palette4=#0000FF,C_BUTTON_Palette5=#C7542A,C_BUTTON_Palette6=#000000,C_BUTTON_Palette7=#00FFFF,C_BUTTON_Palette8=#FF00FF,C_CHECKBOX_Palette1=1</ColorPalette>
+    <ColorPalette>C_BUTTON_Palette1=#FFFFFF,C_BUTTON_Palette2=#FF0000,C_BUTTON_Palette3=#00FF00,C_BUTTON_Palette4=#0000FF,C_BUTTON_Palette5=#FFFF00,C_BUTTON_Palette6=#000000,C_BUTTON_Palette7=#00FFFF,C_BUTTON_Palette8=#FF00FF,C_CHECKBOX_Palette1=1,C_CHECKBOX_Palette2=1</ColorPalette>
   </ColorPalettes>
   <EffectDB>
     <Effect></Effect>
@@ -676,39 +676,27 @@
     </Element>
     <Element type="model" name="Suit 1 Channel Block">
       <EffectLayer/>
-      <Strand index="0">
+      <Strand index="0" name="center_chest">
+        <Effect ref="0" name="On" selected="1" startTime="50" endTime="1075" palette="0"/>
+      </Strand>
+      <Strand index="1" name="torso_outline">
         <Effect ref="0" name="On" startTime="525" endTime="1075" palette="0"/>
       </Strand>
-      <Strand index="1">
+      <Strand index="2" name="left_arm">
         <Effect ref="0" name="On" startTime="1075" endTime="1575" palette="0"/>
       </Strand>
-      <Strand index="2">
+      <Strand index="3" name="right_arm">
+        <Effect ref="0" name="On" startTime="1075" endTime="1575" palette="0"/>
+      </Strand>
+      <Strand index="6" name="left_leg">
         <Effect ref="0" name="On" startTime="1575" endTime="2075" palette="0"/>
       </Strand>
-      <Strand index="3">
-        <Effect ref="0" name="On" startTime="2075" endTime="2600" palette="0"/>
-      </Strand>
-      <Strand index="4">
-        <Effect ref="0" name="On" startTime="2600" endTime="3100" palette="0"/>
+      <Strand index="7" name="right_leg">
+        <Effect ref="0" name="On" startTime="1575" endTime="2075" palette="0"/>
       </Strand>
     </Element>
     <Element type="model" name="Suit 2 Channel Block">
       <EffectLayer/>
-      <Strand index="0">
-        <Effect ref="0" name="On" selected="1" startTime="1075" endTime="1575" palette="0"/>
-      </Strand>
-      <Strand index="1">
-        <Effect ref="0" name="On" startTime="1575" endTime="2075" palette="0"/>
-      </Strand>
-      <Strand index="2">
-        <Effect ref="0" name="On" startTime="2075" endTime="2600" palette="0"/>
-      </Strand>
-      <Strand index="3">
-        <Effect ref="0" name="On" startTime="2600" endTime="3100" palette="0"/>
-      </Strand>
-      <Strand index="4">
-        <Effect ref="0" name="On" startTime="3100" endTime="3575" palette="0"/>
-      </Strand>
     </Element>
   </ElementEffects>
   <lastView>0</lastView>
