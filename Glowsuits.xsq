@@ -677,22 +677,13 @@
     <Element type="model" name="Suit 1 Channel Block">
       <EffectLayer/>
       <Strand index="0" name="center_chest">
-        <Effect ref="0" name="On" selected="1" startTime="50" endTime="1075" palette="0"/>
+        <Effect ref="0" name="On" startTime="50" endTime="525" palette="0"/>
       </Strand>
       <Strand index="1" name="torso_outline">
-        <Effect ref="0" name="On" startTime="525" endTime="1075" palette="0"/>
-      </Strand>
-      <Strand index="2" name="left_arm">
-        <Effect ref="0" name="On" startTime="1075" endTime="1575" palette="0"/>
+        <Effect ref="0" name="On" startTime="25" endTime="500" palette="0"/>
       </Strand>
       <Strand index="3" name="right_arm">
-        <Effect ref="0" name="On" startTime="1075" endTime="1575" palette="0"/>
-      </Strand>
-      <Strand index="6" name="left_leg">
-        <Effect ref="0" name="On" startTime="1575" endTime="2075" palette="0"/>
-      </Strand>
-      <Strand index="7" name="right_leg">
-        <Effect ref="0" name="On" startTime="1575" endTime="2075" palette="0"/>
+        <Effect ref="0" name="On" selected="1" startTime="50" endTime="525" palette="0"/>
       </Strand>
     </Element>
     <Element type="model" name="Suit 2 Channel Block">
