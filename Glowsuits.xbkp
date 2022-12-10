@@ -34,8 +34,7 @@
     <Element collapsed="0" type="model" name="bar2" visible="1"/>
     <Element collapsed="0" type="model" name="guitar" visible="1"/>
     <Element collapsed="0" type="model" name="bar1" visible="1"/>
-    <Element collapsed="0" type="model" name="Suit 1 Channel Block" visible="1"/>
-    <Element collapsed="0" type="model" name="Suit 2 Channel Block" visible="1"/>
+    <Element collapsed="0" type="model" name="Suit 1 Block" visible="1"/>
   </DisplayElements>
   <ElementEffects>
     <Element type="timing" name="New Timing">
@@ -674,26 +673,10 @@
     <Element type="model" name="bar1">
       <EffectLayer/>
     </Element>
-    <Element type="model" name="Suit 1 Channel Block">
-      <EffectLayer/>
-      <Strand index="0" name="center_chest">
-        <Effect ref="0" name="On" startTime="50" endTime="525" palette="0"/>
-      </Strand>
-      <Strand index="1" name="torso_outline">
-        <Effect ref="0" name="On" startTime="50" endTime="525" palette="0"/>
-      </Strand>
-      <Strand index="2" name="left_arm">
-        <Effect ref="0" name="On" startTime="50" endTime="525" palette="0"/>
-      </Strand>
-      <Strand index="3" name="right_arm">
-        <Effect ref="0" name="On" startTime="50" endTime="525" palette="0"/>
-      </Strand>
-      <Strand index="7" name="right_leg">
+    <Element type="model" name="Suit 1 Block">
+      <EffectLayer>
         <Effect ref="0" name="On" selected="1" startTime="50" endTime="525" palette="0"/>
-      </Strand>
-    </Element>
-    <Element type="model" name="Suit 2 Channel Block">
-      <EffectLayer/>
+      </EffectLayer>
     </Element>
   </ElementEffects>
   <lastView>0</lastView>

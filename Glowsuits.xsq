@@ -18,12 +18,8 @@
   </head>
   <nextid>1</nextid>
   <Jukebox/>
-  <ColorPalettes>
-    <ColorPalette>C_BUTTON_Palette1=#FFFFFF,C_BUTTON_Palette2=#FF0000,C_BUTTON_Palette3=#00FF00,C_BUTTON_Palette4=#0000FF,C_BUTTON_Palette5=#FFFF00,C_BUTTON_Palette6=#000000,C_BUTTON_Palette7=#00FFFF,C_BUTTON_Palette8=#FF00FF,C_CHECKBOX_Palette1=1,C_CHECKBOX_Palette2=1</ColorPalette>
-  </ColorPalettes>
-  <EffectDB>
-    <Effect></Effect>
-  </EffectDB>
+  <ColorPalettes/>
+  <EffectDB/>
   <DataLayers>
     <DataLayer lor_params="1" channel_offset="0" num_channels="0" num_frames="0" data="&lt;rendered: erase-mode&gt;" source="&lt;auto-generated&gt;" name="Nutcracker"/>
   </DataLayers>
@@ -34,8 +30,6 @@
     <Element collapsed="0" type="model" name="bar2" visible="1"/>
     <Element collapsed="0" type="model" name="guitar" visible="1"/>
     <Element collapsed="0" type="model" name="bar1" visible="1"/>
-    <Element collapsed="0" type="model" name="Suit 1 Channel Block" visible="1"/>
-    <Element collapsed="0" type="model" name="Suit 2 Channel Block" visible="1"/>
   </DisplayElements>
   <ElementEffects>
     <Element type="timing" name="New Timing">
@@ -672,21 +666,6 @@
       <EffectLayer/>
     </Element>
     <Element type="model" name="bar1">
-      <EffectLayer/>
-    </Element>
-    <Element type="model" name="Suit 1 Channel Block">
-      <EffectLayer/>
-      <Strand index="0" name="center_chest">
-        <Effect ref="0" name="On" startTime="50" endTime="525" palette="0"/>
-      </Strand>
-      <Strand index="1" name="torso_outline">
-        <Effect ref="0" name="On" startTime="25" endTime="500" palette="0"/>
-      </Strand>
-      <Strand index="3" name="right_arm">
-        <Effect ref="0" name="On" selected="1" startTime="50" endTime="525" palette="0"/>
-      </Strand>
-    </Element>
-    <Element type="model" name="Suit 2 Channel Block">
       <EffectLayer/>
     </Element>
   </ElementEffects>
