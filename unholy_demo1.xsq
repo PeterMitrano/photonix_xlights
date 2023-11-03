@@ -232,7 +232,23 @@
       </EffectLayer>
     </Element>
     <Element type="model" name="bars">
-      <EffectLayer/>
+      <EffectLayer>
+        <Effect ref="0" name="VU Meter" selected="1" startTime="750" endTime="4475" palette="0"/>
+        <Effect ref="1" name="On" id="1" startTime="4475" endTime="5350" palette="0"/>
+        <Effect ref="1" name="On" id="2" startTime="5350" endTime="6250" palette="0"/>
+        <Effect ref="2" name="On" id="3" startTime="6250" endTime="6700" palette="0"/>
+        <Effect ref="3" name="On" id="4" startTime="6700" endTime="7175" palette="0"/>
+        <Effect ref="4" name="On" id="5" startTime="8100" endTime="8550" palette="0"/>
+        <Effect ref="5" name="On" id="6" startTime="8550" endTime="9000" palette="0"/>
+        <Effect ref="6" name="On" id="7" startTime="9925" endTime="11250" palette="1"/>
+        <Effect ref="1" name="On" id="8" startTime="11750" endTime="12675" palette="0"/>
+        <Effect ref="1" name="On" id="9" startTime="12675" endTime="13600" palette="0"/>
+        <Effect ref="2" name="On" id="10" startTime="13600" endTime="14050" palette="0"/>
+        <Effect ref="3" name="On" id="11" startTime="14050" endTime="14500" palette="0"/>
+        <Effect ref="4" name="On" id="12" startTime="15400" endTime="15875" palette="0"/>
+        <Effect ref="5" name="On" id="13" startTime="15875" endTime="16325" palette="0"/>
+        <Effect ref="7" name="VU Meter" id="14" startTime="17275" endTime="19075" palette="0"/>
+      </EffectLayer>
     </Element>
     <Element type="model" name="bar1">
       <EffectLayer/>
