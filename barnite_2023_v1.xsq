@@ -2,19 +2,19 @@
 <xsequence BaseChannel="0" ChanCtrlBasic="0" ChanCtrlColor="0" FixedPointTiming="1" ModelBlending="true">
   <head>
     <version>2022.05</version>
-    <author></author>
-    <author-email></author-email>
-    <author-website></author-website>
-    <song></song>
-    <artist></artist>
-    <album></album>
-    <MusicURL></MusicURL>
-    <comment></comment>
+    <author/>
+    <author-email/>
+    <author-website/>
+    <song/>
+    <artist/>
+    <album/>
+    <MusicURL/>
+    <comment/>
     <sequenceTiming>25 ms</sequenceTiming>
     <sequenceType>Media</sequenceType>
     <mediaFile>C:\Users\pmitrano\Documents\xlights_ws\photonix_xlights\barnite_set!!!finalcutYAYYYY.mp3</mediaFile>
     <sequenceDuration>414.024</sequenceDuration>
-    <imageDir></imageDir>
+    <imageDir/>
   </head>
   <nextid>1</nextid>
   <Jukebox/>
@@ -1174,7 +1174,7 @@
     </Element>
     <Element type="model" name="bars">
       <EffectLayer>
-        <Effect ref="0" name="VU Meter" startTime="115650" endTime="128600" palette="2"/>
+        <Effect ref="0" name="VU Meter" selected="1" startTime="115650" endTime="128600" palette="2"/>
         <Effect ref="1" name="On" id="1" startTime="128600" endTime="131050" palette="3"/>
         <Effect ref="2" name="Butterfly" id="2" startTime="131050" endTime="138450" palette="4"/>
         <Effect ref="3" name="VU Meter" id="3" startTime="138450" endTime="142300" palette="5"/>
